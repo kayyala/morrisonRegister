@@ -1,0 +1,136 @@
+[
+  {
+    "id": "online-shopping",
+    "description": "\r\nIn order to do the Online shopping\r\nAs a customer\r\nI want to do online shopping\r\nso that i can register",
+    "name": "Online shopping",
+    "keyword": "Feature",
+    "line": 2,
+    "elements": [
+      {
+        "id": "online-shopping;registering-online",
+        "tags": [
+          {
+            "name": "@Register",
+            "line": 9
+          }
+        ],
+        "description": "",
+        "name": "registering online",
+        "keyword": "Scenario",
+        "line": 10,
+        "steps": [
+          {
+            "result": {
+              "duration": 13821526705,
+              "status": "passed"
+            },
+            "name": "I am navigating to the morrison websits",
+            "keyword": "Given ",
+            "line": 11,
+            "match": {
+              "location": "MyRegisterStepdefs.iAmNavigatingToTheMorrisonWebsits()"
+            }
+          },
+          {
+            "result": {
+              "duration": 2238519053,
+              "status": "passed"
+            },
+            "name": "i click on rigester",
+            "keyword": "And ",
+            "line": 12,
+            "match": {
+              "location": "MyRegisterStepdefs.iClickOnRigester()"
+            }
+          },
+          {
+            "result": {
+              "duration": 591681309,
+              "status": "passed"
+            },
+            "name": "I enter details of newuser",
+            "keyword": "When ",
+            "line": 13,
+            "match": {
+              "location": "MyRegisterStepdefs.iEnterDetailsOfNewuser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 151103074,
+              "status": "passed"
+            },
+            "name": "I tick on terms\u0026conditions",
+            "keyword": "And ",
+            "line": 14,
+            "match": {
+              "location": "MyRegisterStepdefs.iTickOnTermsConditions()"
+            }
+          },
+          {
+            "result": {
+              "duration": 149515721,
+              "status": "passed"
+            },
+            "name": "I click on register",
+            "keyword": "Then ",
+            "line": 15,
+            "match": {
+              "location": "MyRegisterStepdefs.iClickOnRegister()"
+            }
+          },
+          {
+            "result": {
+              "duration": 9062861260,
+              "status": "passed"
+            },
+            "name": "I find ful address,select house no,",
+            "keyword": "And ",
+            "line": 16,
+            "match": {
+              "location": "MyRegisterStepdefs.iFindFulAddressSelectHouseNo()"
+            }
+          },
+          {
+            "result": {
+              "duration": 1342815720,
+              "status": "passed"
+            },
+            "name": "I select my date of birth and gender",
+            "keyword": "And ",
+            "line": 17,
+            "match": {
+              "location": "MyRegisterStepdefs.iSelectMyDateOfBirthAndGender()"
+            }
+          },
+          {
+            "result": {
+              "duration": 271566116,
+              "status": "passed"
+            },
+            "name": "I enter mobile number and no people",
+            "keyword": "And ",
+            "line": 18,
+            "match": {
+              "location": "MyRegisterStepdefs.iEnterMobileNumberAndNoPeople()"
+            }
+          },
+          {
+            "result": {
+              "duration": 3585455735,
+              "status": "passed"
+            },
+            "name": "I click on continue",
+            "keyword": "And ",
+            "line": 19,
+            "match": {
+              "location": "MyRegisterStepdefs.iClickOnContinue()"
+            }
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "uri": "rigester.feature"
+  }
+]
