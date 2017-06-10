@@ -69,63 +69,63 @@ formatter.match({
   "location": "MyRegisterStepdefs.iAmNavigatingToTheMorrisonWebsits()"
 });
 formatter.result({
-  "duration": 13821526705,
+  "duration": 31325408881,
   "status": "passed"
 });
 formatter.match({
   "location": "MyRegisterStepdefs.iClickOnRigester()"
 });
 formatter.result({
-  "duration": 2238519053,
+  "duration": 4820745345,
   "status": "passed"
 });
 formatter.match({
   "location": "MyRegisterStepdefs.iEnterDetailsOfNewuser()"
 });
 formatter.result({
-  "duration": 591681309,
+  "duration": 1684426555,
   "status": "passed"
 });
 formatter.match({
   "location": "MyRegisterStepdefs.iTickOnTermsConditions()"
 });
 formatter.result({
-  "duration": 151103074,
+  "duration": 207105871,
   "status": "passed"
 });
 formatter.match({
   "location": "MyRegisterStepdefs.iClickOnRegister()"
 });
 formatter.result({
-  "duration": 149515721,
+  "duration": 298206975,
   "status": "passed"
 });
 formatter.match({
   "location": "MyRegisterStepdefs.iFindFulAddressSelectHouseNo()"
 });
 formatter.result({
-  "duration": 9062861260,
+  "duration": 9928889290,
   "status": "passed"
 });
 formatter.match({
   "location": "MyRegisterStepdefs.iSelectMyDateOfBirthAndGender()"
 });
 formatter.result({
-  "duration": 1342815720,
+  "duration": 1278194002,
   "status": "passed"
 });
 formatter.match({
   "location": "MyRegisterStepdefs.iEnterMobileNumberAndNoPeople()"
 });
 formatter.result({
-  "duration": 271566116,
+  "duration": 1127684133,
   "status": "passed"
 });
 formatter.match({
   "location": "MyRegisterStepdefs.iClickOnContinue()"
 });
 formatter.result({
-  "duration": 3585455735,
+  "duration": 3350916697,
   "status": "passed"
 });
 });

@@ -9,7 +9,6 @@ import org.junit.runner.RunWith;
 @CucumberOptions(format = {"pretty","html:target/sudhakar-html-report",
         "json:target/kayyala.json"}
         ,tags = {"@Register"}
-        //,tags = {"@newbuyer"}
 )
 public class RunTest {
 }

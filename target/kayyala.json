@@ -21,7 +21,7 @@
         "steps": [
           {
             "result": {
-              "duration": 13821526705,
+              "duration": 31325408881,
               "status": "passed"
             },
             "name": "I am navigating to the morrison websits",
@@ -33,7 +33,7 @@
           },
           {
             "result": {
-              "duration": 2238519053,
+              "duration": 4820745345,
               "status": "passed"
             },
             "name": "i click on rigester",
@@ -45,7 +45,7 @@
           },
           {
             "result": {
-              "duration": 591681309,
+              "duration": 1684426555,
               "status": "passed"
             },
             "name": "I enter details of newuser",
@@ -57,7 +57,7 @@
           },
           {
             "result": {
-              "duration": 151103074,
+              "duration": 207105871,
               "status": "passed"
             },
             "name": "I tick on terms\u0026conditions",
@@ -69,7 +69,7 @@
           },
           {
             "result": {
-              "duration": 149515721,
+              "duration": 298206975,
               "status": "passed"
             },
             "name": "I click on register",
@@ -81,7 +81,7 @@
           },
           {
             "result": {
-              "duration": 9062861260,
+              "duration": 9928889290,
               "status": "passed"
             },
             "name": "I find ful address,select house no,",
@@ -93,7 +93,7 @@
           },
           {
             "result": {
-              "duration": 1342815720,
+              "duration": 1278194002,
               "status": "passed"
             },
             "name": "I select my date of birth and gender",
@@ -105,7 +105,7 @@
           },
           {
             "result": {
-              "duration": 271566116,
+              "duration": 1127684133,
               "status": "passed"
             },
             "name": "I enter mobile number and no people",
@@ -117,7 +117,7 @@
           },
           {
             "result": {
-              "duration": 3585455735,
+              "duration": 3350916697,
               "status": "passed"
             },
             "name": "I click on continue",

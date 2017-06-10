@@ -43,6 +43,7 @@ public class MyRegisterStepdefs extends RandomEmail {
         driver.findElement(By.id("password")).sendKeys("london123");
         driver.findElement(By.id("confirmPassword")).sendKeys("london123");
         driver.findElement(By.id("postcode")).sendKeys("e12 5df");
+        System.out.println("ITS logging **********");
 
 
     }
